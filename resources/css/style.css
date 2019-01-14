@@ -229,14 +229,14 @@ header {
 .intro-text-box {
     position: absolute;
     width: 1140px;
-    top: 50%;
+    top: 60%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
 
 .intro-text-box .discount {
-    font-size: 500%;
+    font-size: 400%;
     color: #fff;
     /* margin-bottom: 15px; */
 }
